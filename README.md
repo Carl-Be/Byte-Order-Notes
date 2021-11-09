@@ -11,16 +11,14 @@
 
   -   Big-Endian:  b3 4f
   
-| MSB| LSB |
-|:----:|:----:|
-|b3|4f |	  
- 
-  -    Little-Endian:  4f b3 
-
-
-| MSB|LSB|
-|:--:|:--:|
-| b3 |4f|
+   | MSB| LSB |
+	 |:----:|:----:|
+	 |b3|4f |	 
+	 
+  - Little-Endian:  4f b3 
+  | MSB|LSB|
+	 |:--:|:--:|
+	 | b3 |4f|
  
  
 - Your computer stores numbers in Host Byte Order. 
@@ -48,3 +46,4 @@ function to set it to Network Byte Order
 |htonl() | host to network long |
 |ntohs() | network to host short|
 |ntohl() | network to host long |
+
