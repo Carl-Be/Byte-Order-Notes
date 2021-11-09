@@ -15,7 +15,7 @@
 |:----:|:----:|
 |b3|4f |	  
  
- - Little-Endian:  4f b3 
+  -  Little-Endian:  4f b3 
 
 
 | MSB|LSB|
