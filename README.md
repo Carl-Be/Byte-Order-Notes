@@ -10,6 +10,8 @@
 - Endianness example using hex number b34f:
 
   -   Big-Endian:  b3 4f
+ 
+ 
   | MSB| LSB |
 	 |:----:|:----:|
 	 |b3|4f |	 
