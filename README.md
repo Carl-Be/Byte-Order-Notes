@@ -10,6 +10,7 @@
 - Endianness example using hex number b34f:
 
 MSB = Most Significant Byte
+
 LSB = Least Significant Byte
 Big-Endian:  b3 4f  
 
