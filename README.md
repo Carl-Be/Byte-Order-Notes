@@ -8,11 +8,15 @@
 - Network Byte Order = Big-Endian 
 
 - Endianness example using hex number b34f:
- -  Big-Endian:  b3 4f  
+
+Big-Endian:  b3 4f  
+
 |MSB|LSB|
 |:--:|:--:|
 |b3|4f|
- -  Little-Endian:  4f b3
+
+Little-Endian:  4f b3
+
 MSB|LSB|
 |:--:|:--:|
 |b3|4f|
